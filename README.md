@@ -9,7 +9,7 @@ I'm a tech enthusiast who loves to code, build, and learn about new things. I us
 *   🌍  I'm based in GA, USA
 *   🖥️  See my portfolio at [HERE](http://https://james-stroup-developer.vercel.app/)
 *   ✉️  You can contact me at [stroup.jamesw@gmail.com](mailto:stroup.jamesw@gmail.com)
-*   🧠  I'm learning TypeScript and Bootstrap
+*   🧠  I'm learning Docker and Jest
 *   🤝  I'm open to collaborating on projects
 *   ⚡  Planning to expand into more backend and other coding languages.
 *   🎮  Fun Fact: My Github username is my Xbox Gamertag.
